@@ -1,0 +1,14 @@
+# Do not track password storage file
+data.txt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment (if created)
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
