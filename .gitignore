@@ -1,6 +1,6 @@
 # Do not track password storage file
 data.txt
-
+data.json
 # Python cache
 __pycache__/
 *.pyc
